@@ -3,7 +3,7 @@ const Footer = () => {
     return (
         <div className='w-full flex md:justify-center justify-between items-center flex-col p-4 gradient-bg-footer'>
             <div className='flex justify-center items-center flex-col mt-5'>
-                <p className="">TypeFast is a simple tool, where you can conveniently brush up your typing skills.</p>
+                <p className={`${commonClass}`}>TypeFast is a simple tool, where you can conveniently brush up your typing skills.</p>
                 <p className={`${commonClass}`}>Come Join Us</p>
                 <p className={`${commonClass}`}>hello@typefast.io</p>
             </div>
