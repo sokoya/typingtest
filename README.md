@@ -2,6 +2,8 @@
 
 A simple tool test from Telentup.africa where user can test how fast he/she can type in a duration of time.
 
+Live Link: https://celebrated-centaur-b4246f.netlify.app/
+
 UI Framework used: Tailwind CSS. https://tailwindcss.com
 Built on ReactJS/Vite
 
